@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @osaadeddine
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning Python and CCNA.
+- 💞️ I’m looking to collaborate on Python and CCNA.
+- 📫 How to reach me osaadeddine@gmail.com.
+- Any suggestions about online courses and study material is highly appreciated.
+- Thank you in advance.
+- Emir Orhan Osmanoglu
